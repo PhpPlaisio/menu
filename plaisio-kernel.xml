@@ -1,0 +1,9 @@
+<kernel>
+    <properties>
+        <property>
+            <type>\Plaisio\Menu\Menu</type>
+            <name>menu</name>
+            <description>The helper object for menu structures.</description>
+        </property>
+    </properties>
+</kernel>

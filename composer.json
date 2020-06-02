@@ -1,0 +1,17 @@
+{
+  "name": "plaisio/menu",
+  "description": "PhpPlaisio: Menu",
+  "keywords": [
+    "PhpPlaisio",
+    "Menu"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Plaisio\\Menu\\": "src/"
+    }
+  }
+}
